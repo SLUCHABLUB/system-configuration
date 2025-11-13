@@ -5,6 +5,7 @@ Constiguration for my system.
 to-do list:
 - pacman/paru
 - Key map
+- GRUB theme
 - Locale
 - Console font
 - Timezone
